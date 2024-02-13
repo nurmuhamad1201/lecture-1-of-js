@@ -1,5 +1,5 @@
 # JAVA Script lecture 1
-![Alt-текст]([https://th.bing.com/th/id/OIP.bsP5b6vQtpmP41L4SpVeBAAAAA?rs=1&pid=ImgDetMain](https://w1.pngwing.com/pngs/913/225/png-transparent-data-icon-javascript-icon-js-icon-node-icon-electric-blue-logo-cobalt-blue-sign-signage-symbol-circle-emblem.png)  "Заголовок изображения")
+![Alt-текст](https://miro.medium.com/v2/resize:fit:1100/0*fcnL6h72kX6skH7H.jpeg)
 
 **Ана акь Kofechara bgivu bshi **
 ![Alt-текст](https://w1.pngwing.com/pngs/913/225/png-transparent-data-icon-javascript-icon-js-icon-node-icon-electric-blue-logo-cobalt-blue-sign-signage-symbol-circle-emblem.png)
