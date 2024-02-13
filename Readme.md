@@ -1,8 +1,8 @@
 # JAVA Script lecture 1
-![Alt-текст](https://th.bing.com/th/id/OIP.bsP5b6vQtpmP41L4SpVeBAAAAA?rs=1&pid=ImgDetMain  "Заголовок изображения")
+![Alt-текст]([https://th.bing.com/th/id/OIP.bsP5b6vQtpmP41L4SpVeBAAAAA?rs=1&pid=ImgDetMain](https://w1.pngwing.com/pngs/913/225/png-transparent-data-icon-javascript-icon-js-icon-node-icon-electric-blue-logo-cobalt-blue-sign-signage-symbol-circle-emblem.png)  "Заголовок изображения")
 
 **Ана акь Kofechara bgivu bshi **
-![Alt-текст](https://th.bing.com/th/id/R.3bc7c091edcc86a496cf80b6ef14bfad?rik=NBXzmeI33YMGRA&pid=ImgRaw&r=0  "Заголовок изображения")
+![Alt-текст](https://w1.pngwing.com/pngs/913/225/png-transparent-data-icon-javascript-icon-js-icon-node-icon-electric-blue-logo-cobalt-blue-sign-signage-symbol-circle-emblem.png)
 ## CREATED in 1995
 ### -in first its name is "Mocha"
 ### VERY POPULAR LANGUAGE IN WORLD FOR WEB-PROGRAMS
@@ -54,4 +54,5 @@ Function Expression
 ![Alt-текст](https://res.cloudinary.com/geekysrm/image/upload/v1576699296/parameters-arguments.jpg  "Заголовок изображения")
 **Umedvoram kame ham boshad dar borai JS malumot girifted**
 ![Alt-текст](https://th.bing.com/th/id/OIP.x5X24tzNea3pokOaMFqPawHaNK?rs=1&pid=ImgDetMain  "Заголовок изображения")
+
 **Shumoro dar leksiyahoi oyanda intizorem**
